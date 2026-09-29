@@ -8,7 +8,4 @@ Conceitos básicos que sustentam toda a criptografia moderna: **algoritmo**, **c
 |---|---|---|---|
 | 01 | [Cifras clássicas no Debian](01-cifras-classicas/) | Cifra de César, Cifra de Vigenère, força bruta e análise de frequência | 3h30 |
 
-## Relação com a UC13
 
-- **Indicador 2:** realiza criptografia de arquivos digitais de acordo com as necessidades de segurança do usuário.
-- **Conhecimento:** criptografia simétrica e assimétrica.
