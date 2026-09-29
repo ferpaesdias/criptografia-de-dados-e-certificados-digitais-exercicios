@@ -1,0 +1,5 @@
+A seguranca da informacao protege os dados da empresa contra acessos indevidos.
+O administrador de redes deve manter as senhas em sigilo e fazer backup diario.
+A criptografia transforma a mensagem em um texto que parece aleatorio.
+Somente quem possui a chave correta consegue ler a mensagem original.
+Por isso a chave deve ser guardada com muito cuidado pela equipe de TI.
