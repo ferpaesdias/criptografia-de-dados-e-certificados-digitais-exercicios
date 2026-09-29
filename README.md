@@ -1,6 +1,6 @@
 # Criptografia de Dados e Certificados Digitais - Exercícios
 
-Exercícios práticos da **UC13 — Planejar e implementar a criptografia de dados e certificados digitais**, do curso **Técnico em Redes de Computadores**.
+Exercícios práticos da **Planejar e implementar a criptografia de dados e certificados digitais**, do curso **Técnico em Redes de Computadores**.
 
 Os laboratórios são feitos no terminal do **Debian**, com ferramentas nativas do sistema, e seguem a ordem das aulas: primeiro os fundamentos e os métodos manuais, depois as ferramentas de criptografia modernas e os certificados digitais.
 
